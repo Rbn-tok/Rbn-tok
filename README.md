@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
- <h1 align="center">Hi 👋, I'm Itokiana</h1>
+ <h1 align="center">Hi 👋, I'm Rbn-tok</h1>
 <h3 align="center">Fullstack dev</h3>
 
 <h3 align="left">Connect with me:</h3>
